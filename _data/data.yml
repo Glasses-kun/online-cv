@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I do not have much work experience, but I am a hardworker and willing to learn.
+      I do not have much work experience aside from a few months of interning, but I am an enthusiastic and hardworking fellow, and always willing to learn.
 education:
     - degree: Undergraduate in Computer Science
       university: University of Pretoria
@@ -62,7 +62,7 @@ experiences:
       time: 2017
       company: Champier, Maputo
       details: |
-        I shadowed a few of the programmers there and learned a bit about how the industry flows. 
+        I shadowed a few of the programmers there and learned a few things about the industry workflow. 
 skills:
     title: Skills &amp; Proficiency
 
@@ -74,7 +74,7 @@ skills:
         level: 80%
     
       - name: Javascript & jQuery
-        level: 70%
+        level: 90%
         
       - name: HTML5 & CSS
         level: 95%
